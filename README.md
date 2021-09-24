@@ -16,7 +16,6 @@
 
 <br />
 <hr />
-<br />
 
 <h3> 
     About me
@@ -42,7 +41,6 @@
         Fun fact: I can transmit and decipher message via Morse Code😎
     </li>
 </ul>
-<br />
 
 <h3>Languages known:</h3>
 <img align="left" width="40px" src="https://img.icons8.com/color/50/000000/c-programming.png" alt="C" />
@@ -53,7 +51,6 @@
 <img align="left" width="40px" src="https://img.icons8.com/dusk/64/000000/css3.png" alt="CSS 3" />
 <img align="left" width="40px" src="https://img.icons8.com/ios-filled/50/000000/javascript-logo.png" alt="JavaScript" />
 
-<br />
 <br />
 <br />
 
@@ -69,13 +66,9 @@
 
 <br />
 <br />
-<br />
 <hr>
-<br />
-
 
 <h3>Stats for nerds:</h3>
-<br>
 
 ![SlowFlash's GitHub stats](https://github-readme-stats.vercel.app/api?username=SlowFlash22&show_icons=true&theme=dracula&hide_border=true)
 
