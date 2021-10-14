@@ -13,8 +13,13 @@
 <a href="https://www.instagram.com/_slowflash_/">
     <img align="left" alt="_slowflash_ | Instagram" width="26px" src="https://img.icons8.com/ios/50/000000/instagram-new--v3.png"/>
 </a>
-
 <br />
+<h5>
+    <a href="https://open.spotify.com/track/6ljbkNIzfmFrGyYUTUAleN?si=998af312c0714b72">
+            <i>*Remember the name(feat. Styles of Beyond) plays in background*
+            </i>
+    </a>
+</h5>
 <hr />
 
 <h3> 
@@ -74,7 +79,7 @@
 
 ![Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=SLowFlash22&show_icons=true&theme=dracula&hide_border=true&layout=compact)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SlowFlash22.SlowFlash22&left_color=black&right_color=purple)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SlowFlash22&left_color=black&right_color=purple)
 
 ---
 
