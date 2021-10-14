@@ -79,7 +79,7 @@
 
 ![Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=SLowFlash22&show_icons=true&theme=dracula&hide_border=true&layout=compact)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SlowFlash22.SlowFlash22&left_color=black&right_color=purple)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SlowFlash22&left_color=black&right_color=purple)
 
 ---
 
