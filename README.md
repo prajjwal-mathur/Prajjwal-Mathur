@@ -70,7 +70,6 @@
 <img align="left" width="40px" src="https://img.icons8.com/color/48/000000/pycharm.png" alt="Pycharm" />
 <img align="left" width="40px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ" />
 <img align="left" width="40px" src="https://img.icons8.com/officel/80/000000/java-eclipse.png" alt="Eclipse" />
-<br />
 <img align="left" width="40px" src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.png" alt="AfterEffects"/>
 <img align="left" width="40px" src="https://img.icons8.com/color/50/000000/adobe-premiere-pro.png" alt="PremierePro"/>
 <img align="left" width="40px" src="https://img.icons8.com/color/50/000000/adobe-photoshop.png" alt="Photoshop"/>
