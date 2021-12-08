@@ -13,6 +13,9 @@
 <a href="https://www.instagram.com/_slowflash_/">
     <img align="left" alt="_slowflash_ | Instagram" width="26px" src="https://img.icons8.com/ios/50/000000/instagram-new--v3.png"/>
 </a>
+<a href="https://www.youtube.com/channel/UClwrSGAIGYKg8vzwIuofSUw">
+    <img align="left" alt="_slowflash_ | Youtube" width="30px"src="https://img.icons8.com/ios/50/000000/youtube-play--v1.png"/>
+</a>
 <br />
 <h5>
     <a href="https://open.spotify.com/track/6ljbkNIzfmFrGyYUTUAleN?si=998af312c0714b72">
@@ -67,7 +70,11 @@
 <img align="left" width="40px" src="https://img.icons8.com/color/48/000000/pycharm.png" alt="Pycharm" />
 <img align="left" width="40px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ" />
 <img align="left" width="40px" src="https://img.icons8.com/officel/80/000000/java-eclipse.png" alt="Eclipse" />
-
+<br />
+<img align="left" width="40px" src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.png" alt="AfterEffects"/>
+<img align="left" width="40px" src="https://img.icons8.com/color/50/000000/adobe-premiere-pro.png" alt="PremierePro"/>
+<img align="left" width="40px" src="https://img.icons8.com/color/50/000000/adobe-photoshop.png" alt="Photoshop"/>
+<img align="left" width="40px" src="https://img.icons8.com/plasticine/100/000000/canva.png" alt="Canva"/>
 
 <br />
 <br />
