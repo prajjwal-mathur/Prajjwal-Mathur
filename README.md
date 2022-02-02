@@ -1,19 +1,19 @@
-<img src="There_Hello_Yoda.gif" alt="Hello there from Baby Yoda" style="border-radius:3%"/>
+<img src="There_Hello_Yoda.gif" alt="Hello there from Baby Yoda" style="border-radius:5%"/>
 
 <h2>
-    I'm Prajjwal Mathur <img src="verify-blue.gif" width="20" />
+    I'm Prajjwal Mathur <img src="verify-blue.gif" width="22px" />
 </h2>
 <a href="https://www.linkedin.com/in/slowflash">
-    <img align="left" alt="_slowflash_ | Twitter" width="26px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
+    <img align="left" alt="_slowflash_ | Twitter" width="30px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
 </a>
 <a href="https://www.twitter.com/_slowflash_">
-    <img align="left" alt="_slowflash_ | Twitter" width="26px" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/>
+    <img align="left" alt="_slowflash_ | Twitter" width="30px" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/>
 </a>
 <a href="https://www.instagram.com/_slowflash_/">
-    <img align="left" alt="_slowflash_ | Instagram" width="26px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>
+    <img align="left" alt="_slowflash_ | Instagram" width="30px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>
 </a>
 <a href="https://www.youtube.com/channel/UClwrSGAIGYKg8vzwIuofSUw">
-    <img align="left" alt="_slowflash_ | Youtube" width="26px"src="https://img.icons8.com/cute-clipart/64/000000/youtube-play.png"/>
+    <img align="left" alt="_slowflash_ | Youtube" width="30px"src="https://img.icons8.com/cute-clipart/64/000000/youtube-play.png"/>
 </a>
 <br />
 <h5>
@@ -49,8 +49,7 @@
 <hr />
 
 <details>
-<summary><h3 style="display: inline;">ToolBox🧰</h3></summary>
-<br />
+<summary style="font-size: 18px">ToolBox🧰</summary>
 
 <h4>👉🏽 Languages familiar with:</h4>
 <img align="left" width="40px" src="https://img.icons8.com/color/50/000000/c-programming.png" alt="C" />
@@ -61,10 +60,10 @@
 <img align="left" width="40px" src="https://img.icons8.com/dusk/64/000000/css3.png" alt="CSS 3" />
 <img align="left" width="40px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
 
-<br />
-<br />
 <hr>
-
+<br />
+<br />
+<br />
 <h4>👉🏽 Tools:</h4>
 <img align="left" width="40px" src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
 <img align="left" width="40px" src="https://img.icons8.com/cute-clipart/64/000000/github.png" alt="GitHub"/>
@@ -75,6 +74,8 @@
 <img align="left" width="40px" src="https://img.icons8.com/officel/80/000000/java-eclipse.png" alt="Eclipse" />
 <img align="left" width="40px" src="https://img.icons8.com/color/50/000000/adobe-premiere-pro.png" alt="PremierePro"/>
 <img align="left" width="40px" src="https://img.icons8.com/color/50/000000/adobe-photoshop.png" alt="Photoshop"/>
+<br />
+<br />
 </details>
 <hr>
 
@@ -91,10 +92,10 @@
 
 <details open>
     <summary><h3 style="display: inline;">Experiences🧑🏽‍💻</h3></summary>
-    <br />
 
-- Became a member of EddieHub: Jan 2022<br />
-- Became a Binance Campus BUIDLer Volunteer: Jan 2022 <br/>
+
+- Became a member of EddieHub: Jan 2022
+- Became a Binance Campus BUIDLer Volunteer: Jan 2022
 - Got Selected in AWS Machine Learning Scholarship by Udacity: Oct 2021
 <br />
 </details>
@@ -102,11 +103,12 @@
 <hr />
 <details open>
 <summary><h3 style="display: inline;">Stats📈</h3></summary>
-<br />
 
-![Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=SLowFlash22&show_icons=true&theme=dracula&hide_border=true&layout=compact)
-![SlowFlash's GitHub stats](https://github-readme-stats.vercel.app/api?username=SlowFlash22&show_icons=true&theme=dracula&hide_border=true&layout=compact)
-[![Prajjwal's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SlowFlash22&theme=dracula&bg_color=282A36&line=dd6387&point=79d9f9&hide_border=true)](https://github.com/SlowFlash22/?tab=repositories)
+<p align="center" style="display:inline;">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLowFlash22&show_icons=true&theme=dracula&hide_border=true&layout=compact" alt="Most Used Lang" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SlowFlash22&show_icons=true&theme=dracula&hide_border=true&layout=compact" alt="SlowFlash's GitHub stats" />
+</p>
+<img src="https://activity-graph.herokuapp.com/graph?username=SlowFlash22&theme=dracula&bg_color=282A36&line=dd6387&point=79d9f9&hide_border=true" alt="Prajjwal's GitHub activity graph" />
 </details>
 
 
