@@ -30,7 +30,7 @@
 </h3>
 <ul>
     <li>
-        I'm a programmer, an Open-Source enthusiast and a gamer.🎮
+        I'm a Programmer, an Open-Source enthusiast, and Gamer.🎮
     </li>
     <li>
         A sophomore pursuing Electronics and Communication Engineering(ECE).⚡
@@ -61,7 +61,8 @@
 <img align="left" width="40px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
 <br />
 <br />
-<h4>👉🏽 Tools:</h4>
+
+<h4>👉🏽 Tools</h4>
 <img align="left" width="40px" src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
 <img align="left" width="40px" src="https://img.icons8.com/cute-clipart/64/000000/github.png" alt="GitHub"/>
 <img align="left" width="40px" src="https://img.icons8.com/color/50/000000/linux.png" alt="Linux" />
@@ -107,5 +108,4 @@
 
 ---
 
-#### Feel free to contact me for teamup in hackathons or any help in project.🤝🏼
-
+#### Feel free to contact me for teamup in hackathons or any opportunity. 🤝🏼
