@@ -31,26 +31,26 @@
 </h3>
 <ul>
     <li>
-        I'm a Programmer, an Open-Source enthusiast and a Gamer.🎮
+        I'm a Programmer, an Open-Source enthusiast, and Gamer.🎮
     </li>
     <li>
         A sophomore pursuing Electronics and Communication Engineering(ECE).⚡
     </li>
     <li>
-        Currently learning and trying to explore everything ranging from programming, content-creation to neuroscience.🧠 
+        Currently learning and trying to explore everything ranging from programming, content-creation to neuroscience. 🧠
     </li>
     <li>
-        Looking forward to any opportunity I get.✨
+        Looking forward to any opportunity I get. ✨
     </li>
     <li>
-        Current Goals: Learn and apply in projects while forging my own path💪🏼
+        Current Goals: Learn and apply in projects while forging my own path. 💪🏼
     </li>
     <li>
-        Fun fact: I can transmit and decipher message via Morse Code😎
+        Fun fact: I can transmit and decipher message via Morse Code. 😎
     </li>
 </ul>
 
-<h3>Languages known:</h3>
+<h3>Languages known</h3>
 <img align="left" width="40px" src="https://img.icons8.com/color/50/000000/c-programming.png" alt="C" />
 <img align="left" width="40px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
 <img align="left" width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" />
@@ -62,7 +62,7 @@
 <br />
 <br />
 
-<h3>Tools:</h3>
+<h3>Tools</h3>
 <img align="left" width="40px" src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
 <img align="left" width="40px" src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub"/>
 <img align="left" width="40px" src="https://img.icons8.com/color/50/000000/linux.png" alt="Linux" />
@@ -79,7 +79,7 @@
 <br />
 <hr>
 
-<h3>Stats for nerds:</h3>
+<h3>Stats for nerds</h3>
 
 ![SlowFlash's GitHub stats](https://github-readme-stats.vercel.app/api?username=SlowFlash22&show_icons=true&theme=dracula&hide_border=true)
 
@@ -89,5 +89,4 @@
 
 ---
 
-#### Feel free to contact me for teamup in hackathons or any opportunity.🤝🏼
-
+#### Feel free to contact me for teamup in hackathons or any opportunity. 🤝🏼
