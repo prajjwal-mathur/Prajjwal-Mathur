@@ -84,11 +84,10 @@
 </a>
 <br />
 <hr />
-<br />
+
 <details open>
     <summary>Experiences🧑🏽‍💻</summary>
-        <br />
-        
+
 - Became a member of EddieHub: Jan 2022
 - Became a Binance Campus BUIDLer Volunteer: Jan 2022
 - Got Selected in AWS Machine Learning Scholarship by Udacity: Oct 2021
@@ -99,10 +98,10 @@
 <summary>Stats📈</summary>
 
 <p align="center" style="display:inline;">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLowFlash22&show_icons=true&theme=dracula&hide_border=true&layout=compact" alt="Most Used Lang" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SlowFlash22&show_icons=true&theme=dracula&hide_border=true&layout=compact" alt="SlowFlash's GitHub stats" />
+    <img width="49%" style="padding:0; margin:0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLowFlash22&show_icons=true&theme=dracula&hide_border=true&layout=compact" alt="Most Used Lang" />
+    <img width="49%" style="padding:0; margin:0;" src="https://github-readme-stats.vercel.app/api?username=SlowFlash22&show_icons=true&theme=dracula&hide_border=true&layout=compact" alt="SlowFlash's GitHub stats" />
+    <img style="padding:0; margin:0;" src="https://activity-graph.herokuapp.com/graph?username=SlowFlash22&theme=dracula&bg_color=282A36&line=dd6387&point=79d9f9&hide_border=true" alt="Prajjwal's GitHub activity graph" />
 </p>
-<img src="https://activity-graph.herokuapp.com/graph?username=SlowFlash22&theme=dracula&bg_color=282A36&line=dd6387&point=79d9f9&hide_border=true" alt="Prajjwal's GitHub activity graph" />
 </details>
 
 
