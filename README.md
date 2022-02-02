@@ -26,7 +26,7 @@
 
 <h3> 
     About me
-    <img width="20px"src="https://emoji.discord.st/emojis/6f4f42f2-9c64-41ae-811c-36564e2d41a2.png"> :
+    <img width="20px"src="https://emoji.discord.st/emojis/6f4f42f2-9c64-41ae-811c-36564e2d41a2.png">
 </h3>
 <ul>
     <li>
@@ -51,7 +51,7 @@
 <details>
 <summary>ToolBox🧰</summary>
 
-<h4>👉🏽 Languages familiar with:</h4>
+<h4>👉🏽 Languages known</h4>
 <img align="left" width="40px" src="https://img.icons8.com/color/50/000000/c-programming.png" alt="C" />
 <img align="left" width="40px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
 <img align="left" width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" />
@@ -76,7 +76,7 @@
 </details>
 <hr>
 
-<h3>Places where I train my DSA skills🤯:</h3>
+<h3>Places where I train my DSA skills 🤯</h3>
 <a href="https://leetcode.com/SlowFlash/">
     <img align="left" alt="_slowflash_ | LeetCode" width="30px"src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/>
 </a>
@@ -87,7 +87,7 @@
 <hr />
 
 <details open>
-    <summary>Experiences🧑🏽‍💻</summary>
+    <summary>Experiences 🧑🏽‍💻</summary>
 
 - Became a member of EddieHub: Jan 2022
 - Became a Binance Campus BUIDLer Volunteer: Jan 2022
@@ -95,8 +95,9 @@
 </details>
 
 <hr />
+
 <details open>
-<summary>Stats📈</summary>
+<summary>Stats 📈</summary>
 
 <p align="center" style="display:inline;">
     <img width="49%" style="padding:0; margin:0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLowFlash22&show_icons=true&theme=dracula&hide_border=true&layout=compact" alt="Most Used Lang" />
@@ -105,7 +106,5 @@
 </p>
 </details>
 
-
 ---
-
 #### Feel free to contact me for teamup in hackathons or any opportunity. 🤝🏼
