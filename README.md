@@ -49,7 +49,7 @@
 <hr />
 
 <details>
-<summary style="font-size: 18px">ToolBox🧰</summary>
+<summary style="font-size: 25px">ToolBox🧰</summary>
 
 <h4>👉🏽 Languages familiar with:</h4>
 <img align="left" width="40px" src="https://img.icons8.com/color/50/000000/c-programming.png" alt="C" />
@@ -59,10 +59,9 @@
 <img align="left" width="40px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML 5" />
 <img align="left" width="40px" src="https://img.icons8.com/dusk/64/000000/css3.png" alt="CSS 3" />
 <img align="left" width="40px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
-
+<br />
+<br />
 <hr>
-<br />
-<br />
 <br />
 <h4>👉🏽 Tools:</h4>
 <img align="left" width="40px" src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
@@ -91,7 +90,7 @@
 <hr />
 
 <details open>
-    <summary><h3 style="display: inline;">Experiences🧑🏽‍💻</h3></summary>
+    <summary style="font-size: 25px">Experiences🧑🏽‍💻</summary>
 
 
 - Became a member of EddieHub: Jan 2022
@@ -102,7 +101,7 @@
 
 <hr />
 <details open>
-<summary><h3 style="display: inline;">Stats📈</h3></summary>
+<summary style="font-size: 25px">Stats📈</summary>
 
 <p align="center" style="display:inline;">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLowFlash22&show_icons=true&theme=dracula&hide_border=true&layout=compact" alt="Most Used Lang" />
