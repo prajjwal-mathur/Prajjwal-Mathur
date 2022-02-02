@@ -49,7 +49,7 @@
 <hr />
 
 <details>
-<summary style="font-size: 25px">ToolBox🧰</summary>
+<summary>ToolBox🧰</summary>
 
 <h4>👉🏽 Languages familiar with:</h4>
 <img align="left" width="40px" src="https://img.icons8.com/color/50/000000/c-programming.png" alt="C" />
@@ -60,8 +60,6 @@
 <img align="left" width="40px" src="https://img.icons8.com/dusk/64/000000/css3.png" alt="CSS 3" />
 <img align="left" width="40px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
 <br />
-<br />
-<hr>
 <br />
 <h4>👉🏽 Tools:</h4>
 <img align="left" width="40px" src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
@@ -74,9 +72,9 @@
 <img align="left" width="40px" src="https://img.icons8.com/color/50/000000/adobe-premiere-pro.png" alt="PremierePro"/>
 <img align="left" width="40px" src="https://img.icons8.com/color/50/000000/adobe-photoshop.png" alt="Photoshop"/>
 <br />
-<br />
 </details>
 <hr>
+<br />
 
 <h3>Places where I train my DSA skills🤯:</h3>
 <a href="https://leetcode.com/SlowFlash/">
@@ -90,18 +88,16 @@
 <hr />
 
 <details open>
-    <summary style="font-size: 25px">Experiences🧑🏽‍💻</summary>
-
+    <summary>Experiences🧑🏽‍💻</summary>
 
 - Became a member of EddieHub: Jan 2022
 - Became a Binance Campus BUIDLer Volunteer: Jan 2022
 - Got Selected in AWS Machine Learning Scholarship by Udacity: Oct 2021
-<br />
 </details>
 
 <hr />
 <details open>
-<summary style="font-size: 25px">Stats📈</summary>
+<summary>Stats📈</summary>
 
 <p align="center" style="display:inline;">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLowFlash22&show_icons=true&theme=dracula&hide_border=true&layout=compact" alt="Most Used Lang" />
