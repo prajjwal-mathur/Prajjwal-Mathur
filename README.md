@@ -74,7 +74,6 @@
 <br />
 </details>
 <hr>
-<br />
 
 <h3>Places where I train my DSA skills🤯:</h3>
 <a href="https://leetcode.com/SlowFlash/">
@@ -84,12 +83,12 @@
     <img align="left" alt="_slowflash_ | HackerRank" width="30px"src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2448/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/>
 </a>
 <br />
-<br />
 <hr />
-
+<br />
 <details open>
     <summary>Experiences🧑🏽‍💻</summary>
-
+        <br />
+        
 - Became a member of EddieHub: Jan 2022
 - Became a Binance Campus BUIDLer Volunteer: Jan 2022
 - Got Selected in AWS Machine Learning Scholarship by Udacity: Oct 2021
