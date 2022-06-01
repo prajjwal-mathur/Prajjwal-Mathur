@@ -1,7 +1,7 @@
 <img src="There_Hello_Yoda.gif" alt="Hello there from Baby Yoda" style="border-radius:5%"/>
 
 <h2>
-    I'm Prajjwal Mathur <img src="verify-blue.gif" width="22px" />
+    I'm Prajjwal Mathur <img src="neo.png" />
 </h2>
 <a href="https://www.linkedin.com/in/slowflash">
     <img align="left" alt="_slowflash_ | Twitter" width="30px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
