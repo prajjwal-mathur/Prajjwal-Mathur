@@ -1,7 +1,7 @@
-<img src="There_Hello_Yoda.gif" alt="Hello there from Baby Yoda" style="border-radius:5%"/>
+<img src="SebastianVettelIGP2013.png" alt="Sebastian Vettel Indian GP Celebration" style="border-radius:2%; width:550px; height:300px"/>
 
 <h2>
-    I'm Prajjwal Mathur <img src="neo.png" />
+    Hello!<br>I'm Prajjwal Mathur <img src="neo.png" />
 </h2>
 <a href="https://www.linkedin.com/in/slowflash">
     <img align="left" alt="_slowflash_ | Twitter" width="30px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
@@ -30,19 +30,19 @@
 </h3>
 <ul>
     <li>
-        I'm a Programmer, an Open-Source enthusiast, and Gamer.🎮
+        I'm a Programmer, an Open-Source enthusiast, Gamer, and a die-hard F1 fan.🏎️
     </li>
     <li>
-        A sophomore pursuing Electronics and Communication Engineering(ECE).⚡
+        A junior pursuing Electronics and Communication Engineering(ECE).⚡
     </li>
     <li>
-        Currently learning and trying to explore everything ranging from programming to content-creation. 
+        Focussed on DSA and Software Development. 
     </li>
     <li>
-        Learning Pattern I follow: Learning and applying simultaneously in projects.🤔
+        Learning Pattern that I follow: Learning and applying it simultaneously in projects.🤔
     </li>
     <li>
-        Looking forward to any opportunity I get.✨
+        Looking forward to Software Development opportunitites.✨
     </li>
 
 </ul>
@@ -80,6 +80,9 @@
 <a href="https://leetcode.com/SlowFlash/">
     <img align="left" alt="_slowflash_ | LeetCode" width="30px"src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/>
 </a>
+<a href="https://codeforces.com/profile/slowflash">
+    <img align="left" alt="slowflash | Codeforces" width="30px"src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3629285-3031869.png"/>
+</a>
 <a href="https://www.hackerrank.com/SlowFlash22">
     <img align="left" alt="_slowflash_ | HackerRank" width="30px"src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2448/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/>
 </a>
@@ -89,6 +92,7 @@
 <details open>
     <summary>Experiences 🧑🏽‍💻</summary>
 
+- <a href="https://www.linkedin.com/feed/update/urn:li:activity:6951502813713571840/" style="text-decoration: none">Became a Postman Student Expert: Jul 2022</a>
 - Became a member of EddieHub: Jan 2022
 - Became a Binance Campus BUIDLer Volunteer: Jan 2022
 - Got Selected in AWS Machine Learning Scholarship by Udacity: Oct 2021
