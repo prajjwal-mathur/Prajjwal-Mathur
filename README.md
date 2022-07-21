@@ -1,4 +1,4 @@
-<img src="SebastianVettelIGP2013.png" alt="Sebastian Vettel Indian GP Celebration" style="border-radius:2%; width:550px; height:300px"/>
+<img src="SebastianVettelIGP2013.png" alt="Sebastian Vettel Indian GP Celebration" style="border-radius:2%; width:750px; height:480px"/>
 
 <h2>
     Hello!<br>I'm Prajjwal Mathur <img src="neo.png" />
