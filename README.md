@@ -104,11 +104,8 @@
 <summary>Stats 📈</summary>
 
 <p align="center" style="display:inline;">
-    <img width="49%" style="padding:0; margin:0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLowFlash22&show_icons=true&theme=dracula&hide_border=true&layout=compact" alt="Most Used Lang" />
     <img width="49%" style="padding:0; margin:0;" src="https://github-readme-stats.vercel.app/api?username=SlowFlash22&show_icons=true&theme=dracula&hide_border=true&layout=compact" alt="SlowFlash's GitHub stats" />
-    <img style="padding:0; margin:0;" src="https://activity-graph.herokuapp.com/graph?username=SlowFlash22&theme=dracula&bg_color=282A36&line=dd6387&point=79d9f9&hide_border=true" alt="Prajjwal's GitHub activity graph" />
 </p>
 </details>
 
 ---
-#### Feel free to contact me for teamup in hackathons or any opportunity. 🤝🏼
