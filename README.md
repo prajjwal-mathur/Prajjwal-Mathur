@@ -7,12 +7,6 @@
 <a href="https://www.twitter.com/_slowflash_">
     <img align="left" alt="_slowflash_ | Twitter" width="30px" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/>
 </a>
-<a href="https://www.instagram.com/_slowflash_/">
-    <img align="left" alt="_slowflash_ | Instagram" width="30px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>
-</a>
-<a href="https://www.youtube.com/channel/UClwrSGAIGYKg8vzwIuofSUw">
-    <img align="left" alt="_slowflash_ | Youtube" width="30px"src="https://img.icons8.com/cute-clipart/64/000000/youtube-play.png"/>
-</a>
 <br />
 
 <hr />
