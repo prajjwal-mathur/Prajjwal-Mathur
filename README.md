@@ -1,8 +1,6 @@
-<img src="SebastianVettelIGP2013.png" alt="Sebastian Vettel Indian GP Celebration" style="border-radius:2%; width:750px; height:480px"/>
+<img src="DallE-Art.png" alt="Sebastian Vettel Indian GP Celebration" style="border-radius:2%; width:750px; height:480px"/>
 
-<h2>
-    Hello!<br>I'm Prajjwal Mathur <img src="neo.png" />
-</h2>
+
 <a href="https://www.linkedin.com/in/slowflash">
     <img align="left" alt="_slowflash_ | Twitter" width="30px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
 </a>
@@ -16,12 +14,7 @@
     <img align="left" alt="_slowflash_ | Youtube" width="30px"src="https://img.icons8.com/cute-clipart/64/000000/youtube-play.png"/>
 </a>
 <br />
-<h5>
-    <a href="https://open.spotify.com/track/6ljbkNIzfmFrGyYUTUAleN?si=998af312c0714b72">
-            <i>*Remember the name(feat. Styles of Beyond) plays in background*
-            </i>
-    </a>
-</h5>
+
 <hr />
 
 <h3> 
@@ -39,7 +32,7 @@
         Focussed on DSA and Software Development. 
     </li>
     <li>
-        Learning Pattern that I follow: Learning and applying it simultaneously in projects.🤔
+        Learning Pattern that I follow: Learning and applying it simultaneously in projects.
     </li>
     <li>
         Looking forward to Software Development opportunitites.✨
@@ -108,4 +101,3 @@
 </p>
 </details>
 
----
