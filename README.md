@@ -7,6 +7,15 @@
 <a href="https://www.twitter.com/_slowflash_">
     <img align="left" alt="_slowflash_ | Twitter" width="30px" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/>
 </a>
+<a href="https://leetcode.com/SlowFlash/">
+    <img align="left" alt="_slowflash_ | LeetCode" width="30px"src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/>
+</a>
+<a href="https://codeforces.com/profile/slowflash">
+    <img align="left" alt="slowflash | Codeforces" width="30px"src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3629285-3031869.png"/>
+</a>
+<a href="https://www.hackerrank.com/SlowFlash22">
+    <img align="left" alt="_slowflash_ | HackerRank" width="30px"src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2448/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/>
+</a>
 <br />
 
 <hr />
@@ -20,7 +29,7 @@
         I'm a Programmer, an Open-Source enthusiast, Gamer, and a die-hard F1 fan.🏎️
     </li>
     <li>
-        A junior pursuing Electronics and Communication Engineering(ECE).⚡
+        A junior year student pursuing Electronics and Communication Engineering(ECE).⚡
     </li>
     <li>
         Focussed on DSA and Software Development. 
@@ -43,7 +52,6 @@
 <img align="left" width="40px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
 <img align="left" width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" />
 <img align="left" width="40px" src="https://img.icons8.com/color/48/000000/python--v2.png" alt="Python 3+" />
-<img align="left" width="40px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML 5" />
 <img align="left" width="40px" src="https://img.icons8.com/dusk/64/000000/css3.png" alt="CSS 3" />
 <img align="left" width="40px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
 <br />
@@ -53,28 +61,10 @@
 <img align="left" width="40px" src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
 <img align="left" width="40px" src="https://img.icons8.com/cute-clipart/64/000000/github.png" alt="GitHub"/>
 <img align="left" width="40px" src="https://img.icons8.com/color/50/000000/linux.png" alt="Linux" />
-<img align="left" width="40px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS code" />
-<img align="left" width="40px" src="https://img.icons8.com/color/48/000000/pycharm.png" alt="Pycharm" />
-<img align="left" width="40px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ" />
-<img align="left" width="40px" src="https://img.icons8.com/officel/80/000000/java-eclipse.png" alt="Eclipse" />
-<img align="left" width="40px" src="https://img.icons8.com/color/50/000000/adobe-premiere-pro.png" alt="PremierePro"/>
-<img align="left" width="40px" src="https://img.icons8.com/color/50/000000/adobe-photoshop.png" alt="Photoshop"/>
 <br />
 </details>
 <hr>
 
-<h3>Places where I train my DSA skills 🤯</h3>
-<a href="https://leetcode.com/SlowFlash/">
-    <img align="left" alt="_slowflash_ | LeetCode" width="30px"src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/>
-</a>
-<a href="https://codeforces.com/profile/slowflash">
-    <img align="left" alt="slowflash | Codeforces" width="30px"src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3629285-3031869.png"/>
-</a>
-<a href="https://www.hackerrank.com/SlowFlash22">
-    <img align="left" alt="_slowflash_ | HackerRank" width="30px"src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2448/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/>
-</a>
-<br />
-<hr />
 
 <details open>
     <summary>Experiences 🧑🏽‍💻</summary>
