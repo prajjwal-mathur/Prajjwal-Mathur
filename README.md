@@ -75,13 +75,3 @@
 - Got Selected in AWS Machine Learning Scholarship by Udacity: Oct 2021
 </details>
 
-<hr />
-
-<details open>
-<summary>Stats 📈</summary>
-
-<p align="center" style="display:inline;">
-    <img width="49%" style="padding:0; margin:0;" src="https://github-readme-stats.vercel.app/api?username=SlowFlash22&show_icons=true&theme=dracula&hide_border=true&layout=compact" alt="SlowFlash's GitHub stats" />
-</p>
-</details>
-
