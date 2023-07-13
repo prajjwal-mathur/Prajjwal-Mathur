@@ -1,4 +1,4 @@
-<img src="DallE-Art.png" alt="Sebastian Vettel Indian GP Celebration" style="border-radius:2%; width:750px; height:480px"/>
+<img src="DallE-Art.png" alt="Astro intro page" style="border-radius:2%; width:750px; height:480px"/>
 
 
 <a href="https://www.linkedin.com/in/slowflash">
