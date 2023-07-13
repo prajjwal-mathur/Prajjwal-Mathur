@@ -4,9 +4,6 @@
 <a href="https://www.linkedin.com/in/slowflash">
     <img align="left" alt="_slowflash_ | Twitter" width="30px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
 </a>
-<a href="https://www.twitter.com/_slowflash_">
-    <img align="left" alt="_slowflash_ | Twitter" width="30px" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/>
-</a>
 <a href="https://leetcode.com/SlowFlash/">
     <img align="left" alt="_slowflash_ | LeetCode" width="30px"src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/>
 </a>
@@ -26,19 +23,16 @@
 </h3>
 <ul>
     <li>
-        I'm a Programmer, an Open-Source enthusiast, Gamer, and a die-hard F1 fan.🏎️
+        I'm a Programmer, an Open-Source enthusiast with full-stack experience.
     </li>
     <li>
-        A junior year student pursuing Electronics and Communication Engineering(ECE).⚡
+        Looking for software engineering or software development engineer opportunities as full-stack, backend or frontend engineer.
     </li>
     <li>
         Focussed on DSA and Software Development. 
     </li>
     <li>
-        Learning Pattern that I follow: Learning and applying it simultaneously in projects.
-    </li>
-    <li>
-        Looking forward to Software Development opportunitites.✨
+        Learning Pattern that I follow: Learning and applying it simultaneously in projects by reading documentations.
     </li>
 
 </ul>
@@ -72,6 +66,6 @@
 - <a href="https://www.linkedin.com/feed/update/urn:li:activity:6951502813713571840/" style="text-decoration: none">Became a Postman Student Expert: Jul 2022</a>
 - Became a member of EddieHub: Jan 2022
 - Became a Binance Campus BUIDLer Volunteer: Jan 2022
-- Got Selected in AWS Machine Learning Scholarship by Udacity: Oct 2021
+- Got Selected in AWS Machine Learning Scholarship by Udacity(one of the 320 students selected each year): Oct 2021
 </details>
 
