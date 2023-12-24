@@ -1,6 +1,3 @@
-<img src="DallE-Art.png" alt="Astro intro page" style="border-radius:2%; width:750px; height:480px"/>
-
-
 <a href="https://www.linkedin.com/in/slowflash">
     <img align="left" alt="_slowflash_ | Twitter" width="30px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
 </a>
@@ -23,18 +20,11 @@
 </h3>
 <ul>
     <li>
-        I'm a Programmer, an Open-Source enthusiast with full-stack experience.
+        I'm a Programmer, with a knack for developing apps in Enterprise Java(Spring, MySQL), Python(Django, SQLite, Postgres) along with NodeJS, ExpressJS, and ReactJS
     </li>
     <li>
-        Looking for software engineering or software development engineer opportunities as full-stack, backend or frontend engineer.
+        I am looking for SWE/SDE roles as I am graduating in 2024
     </li>
-    <li>
-        Focussed on DSA and Software Development. 
-    </li>
-    <li>
-        Learning Pattern that I follow: Learning and applying it simultaneously in projects by reading documentations.
-    </li>
-
 </ul>
 <hr />
 
